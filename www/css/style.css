@@ -1,0 +1,13 @@
+/**/
+button{
+  margin-top: 10px;
+  margin-left: 150px;
+}
+.map{
+    margin-top: 20px;
+    width: 100%;
+    height: 300px;
+}
+plugin{
+  font-size: 100px;
+}
